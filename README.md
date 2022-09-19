@@ -1,8 +1,8 @@
-# News App
+# News App 
 
 Hello,
 
-## Tech Stack
+## Tech Stack 🎯
     - Swift
     - UIKit
     - TableView
@@ -11,7 +11,7 @@ Hello,
     - Programmatic
     - API
     
-## Resources
+## Resources 🗂
 
 -  https://medium.com/turkishkit/swift-ile-uikit-uitableview-giriş-3a9d5f25edf2
 -  https://medium.com/turkishkit/uikit-uitextview-d8fb56b70fe8
@@ -21,14 +21,7 @@ Hello,
 
 
 
-
-  
-
-Screen | Dark Mode 
-:-------------------------: 
-
-
-## Screens | Dark Mode Screen
+## Screens | Dark Mode Screen 📷
 :-------------------------: | :-------------------------:
 ![](https://i.hizliresim.com/3gm2anb.png) | ![](https://i.hizliresim.com/a7ws222.png)
 
