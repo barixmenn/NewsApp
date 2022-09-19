@@ -1,4 +1,4 @@
-# News-App
+# News App
 
 Hello,
 
